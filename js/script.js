@@ -40,7 +40,7 @@ async function loadProducts() {
     for (const product of data.products) {
         productsHTML += `
             <div class="product-card">
-                <img src="${product.thumbnail}" alt="${product.title}">
+                <img src="${product.thumbnail}" alt="${product.title}" loading="lazy" width="300" height="300">
                 <h3>${product.title}</h3>
                 <p>${product.description}</p>
                 <span class="price">${product.price} ₽</span>
