@@ -14,4 +14,4 @@
 HTML5, SCSS, JavaScript (ES6+), Git, Webpack
 
 ## 🌐 Демо:
-[Ссылка на GitHub Pages](https://icanfeelthisrythm.github.io/my-first-project/) *(замени на свою реальную ссылку, если уже включил)*
+[Ссылка на GitHub Pages](https://icanfeelthisrythm.github.io/my-first-project/)
